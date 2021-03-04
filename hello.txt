@@ -1,2 +1,3 @@
 from master branch
 from new branch
+changes in new branch by another user
