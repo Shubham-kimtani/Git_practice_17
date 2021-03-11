@@ -1,2 +1,0 @@
-from master branch
-from new branch
